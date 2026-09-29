@@ -1,5 +1,4 @@
-# v2x-road-hazard-warning
-Cooperative V2X road-hazard warning prototype using vehicle traction events and camera-based road-condition detection.
+
 # V2X Road Hazard Warning
 
 A prototype system that uses vehicle behaviour, camera information and V2X communication to detect possible road hazards and warn other vehicles approaching the same location.
