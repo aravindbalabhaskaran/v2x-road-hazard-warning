@@ -87,6 +87,8 @@ The objective is therefore not to replace the vehicle's existing safety systems.
 
 Instead, the project acts as a cooperative information layer above them.
 
+```text
+
 How does it work?
 
 The prototype follows this general pipeline:
